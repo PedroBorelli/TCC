@@ -1,0 +1,96 @@
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\bin\Debug\net8.0-windows\esteganografia.exe
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\bin\Debug\net8.0-windows\esteganografia.deps.json
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\bin\Debug\net8.0-windows\esteganografia.runtimeconfig.json
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\bin\Debug\net8.0-windows\esteganografia.dll
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\bin\Debug\net8.0-windows\esteganografia.pdb
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.Form1.resources
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.GenerateResource.cache
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.dll
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\obj\Debug\net8.0-windows\refint\esteganografia.dll
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.pdb
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.genruntimeconfig.cache
+C:\Users\Guilherme\source\repos\esteganografia\esteganografia\obj\Debug\net8.0-windows\ref\esteganografia.dll
+C:\esteganografia\esteganografia\bin\Debug\net8.0-windows\esteganografia.exe
+C:\esteganografia\esteganografia\bin\Debug\net8.0-windows\esteganografia.deps.json
+C:\esteganografia\esteganografia\bin\Debug\net8.0-windows\esteganografia.runtimeconfig.json
+C:\esteganografia\esteganografia\bin\Debug\net8.0-windows\esteganografia.dll
+C:\esteganografia\esteganografia\bin\Debug\net8.0-windows\esteganografia.pdb
+C:\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.Form1.resources
+C:\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.GenerateResource.cache
+C:\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfoInputs.cache
+C:\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfo.cs
+C:\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.CoreCompileInputs.cache
+C:\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.dll
+C:\esteganografia\esteganografia\obj\Debug\net8.0-windows\refint\esteganografia.dll
+C:\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.pdb
+C:\esteganografia\esteganografia\obj\Debug\net8.0-windows\esteganografia.genruntimeconfig.cache
+C:\esteganografia\esteganografia\obj\Debug\net8.0-windows\ref\esteganografia.dll
+E:\esteganografia\bin\Debug\net8.0-windows\esteganografia.exe
+E:\esteganografia\bin\Debug\net8.0-windows\esteganografia.deps.json
+E:\esteganografia\bin\Debug\net8.0-windows\esteganografia.runtimeconfig.json
+E:\esteganografia\bin\Debug\net8.0-windows\esteganografia.dll
+E:\esteganografia\bin\Debug\net8.0-windows\esteganografia.pdb
+E:\esteganografia\obj\Debug\net8.0-windows\esteganografia.Form1.resources
+E:\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.GenerateResource.cache
+E:\esteganografia\obj\Debug\net8.0-windows\esteganografia.GeneratedMSBuildEditorConfig.editorconfig
+E:\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfoInputs.cache
+E:\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfo.cs
+E:\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.CoreCompileInputs.cache
+E:\esteganografia\obj\Debug\net8.0-windows\esteganografia.dll
+E:\esteganografia\obj\Debug\net8.0-windows\refint\esteganografia.dll
+E:\esteganografia\obj\Debug\net8.0-windows\esteganografia.pdb
+E:\esteganografia\obj\Debug\net8.0-windows\esteganografia.genruntimeconfig.cache
+E:\esteganografia\obj\Debug\net8.0-windows\ref\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\esteganografia\obj\Debug\net8.0-windows\Esteganografia.Form1.resources
+C:\Users\pedro\Desktop\TCC\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\TCC\esteganografia\obj\Debug\net8.0-windows\esteganografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\TCC\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\TCC\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfo.cs
+C:\Users\pedro\Desktop\TCC\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\TCC\esteganografia\bin\Debug\net8.0-windows\esteganografia.exe
+C:\Users\pedro\Desktop\TCC\esteganografia\bin\Debug\net8.0-windows\esteganografia.deps.json
+C:\Users\pedro\Desktop\TCC\esteganografia\bin\Debug\net8.0-windows\esteganografia.runtimeconfig.json
+C:\Users\pedro\Desktop\TCC\esteganografia\bin\Debug\net8.0-windows\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\esteganografia\bin\Debug\net8.0-windows\esteganografia.pdb
+C:\Users\pedro\Desktop\TCC\esteganografia\obj\Debug\net8.0-windows\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\esteganografia\obj\Debug\net8.0-windows\refint\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\esteganografia\obj\Debug\net8.0-windows\esteganografia.pdb
+C:\Users\pedro\Desktop\TCC\esteganografia\obj\Debug\net8.0-windows\esteganografia.genruntimeconfig.cache
+C:\Users\pedro\Desktop\TCC\esteganografia\obj\Debug\net8.0-windows\ref\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\obj\Debug\net8.0-windows\esteganografia.Form1.resources
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\obj\Debug\net8.0-windows\esteganografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfo.cs
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\bin\Debug\net8.0-windows\esteganografia.exe
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\bin\Debug\net8.0-windows\esteganografia.deps.json
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\bin\Debug\net8.0-windows\esteganografia.runtimeconfig.json
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\bin\Debug\net8.0-windows\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\bin\Debug\net8.0-windows\esteganografia.pdb
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\obj\Debug\net8.0-windows\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\obj\Debug\net8.0-windows\refint\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\obj\Debug\net8.0-windows\esteganografia.pdb
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\obj\Debug\net8.0-windows\esteganografia.genruntimeconfig.cache
+C:\Users\pedro\Desktop\TCC\Novo\esteganografia\obj\Debug\net8.0-windows\ref\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\bin\Debug\net8.0-windows\esteganografia.exe
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\bin\Debug\net8.0-windows\esteganografia.deps.json
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\bin\Debug\net8.0-windows\esteganografia.runtimeconfig.json
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\bin\Debug\net8.0-windows\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\bin\Debug\net8.0-windows\esteganografia.pdb
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\obj\Debug\net8.0-windows\esteganografia.Form1.resources
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\obj\Debug\net8.0-windows\esteganografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\obj\Debug\net8.0-windows\esteganografia.AssemblyInfo.cs
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\obj\Debug\net8.0-windows\esteganografia.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\obj\Debug\net8.0-windows\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\obj\Debug\net8.0-windows\refint\esteganografia.dll
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\obj\Debug\net8.0-windows\esteganografia.pdb
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\obj\Debug\net8.0-windows\esteganografia.genruntimeconfig.cache
+C:\Users\pedro\Desktop\TCC\Novo\Versão 2\esteganografia\obj\Debug\net8.0-windows\ref\esteganografia.dll
