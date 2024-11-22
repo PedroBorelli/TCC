@@ -9,6 +9,7 @@ namespace LeituraHuffaman
     public partial class Form1 : Form
     {
         private Bitmap img;
+        private byte[] JPGData;
         private string filePath;
 
         public Form1()
@@ -30,6 +31,7 @@ namespace LeituraHuffaman
 
                 // Carregar a imagem
                 img = new Bitmap(filePath);
+                JPGData = File.ReadAllBytes(filePath);
                 MessageBox.Show("Imagem carregada com sucesso.");
             }
         }
@@ -42,7 +44,9 @@ namespace LeituraHuffaman
                 return;
             }
 
-            try
+            ReadHuffmanTables(JPGData);
+
+            /*try
             {
                 HuffmanTree huffmanTree = new HuffmanTree();
                 string encodedText = huffmanTree.EncodeImage(img);
@@ -62,8 +66,25 @@ namespace LeituraHuffaman
             catch (Exception ex)
             {
                 MessageBox.Show("Erro ao processar a imagem: " + ex.Message);
+            }*/
+        }
+
+        static void ReadHuffmanTables(byte[] data)
+        {
+            string temp = "";
+
+            for (int i = 0; i < data.Length; i++)
+            {
+                if (data[i] == 0xFF && data[i + 1] == 0xC4)
+                {
+                    temp += "Encontrado o marcador DHT (Define Huffman Table) em posição: " + i + "\n";
+                    int length = (data[i + 2] << 8) + data[i + 3];
+                    temp += "Comprimento do segmento DHT: " + length + "\n";
+                    i += length;
+                }
             }
         }
+
 
         private void text_Huffaman_TextChanged(object sender, EventArgs e)
         {
