@@ -47,8 +47,8 @@ namespace LeituraHuffaman
                 HuffmanTree huffmanTree = new HuffmanTree();
                 string encodedText = huffmanTree.EncodeImage(img);
 
-                // Exibe o texto codificado (só para demonstração, normalmente não faria isso)
-                MessageBox.Show("Texto codificado: " + encodedText.Substring(0, 100) + "...");
+                // Exibe o texto codificado no TextBox
+                text_Huffaman.Text = encodedText;
 
                 // Decodificação
                 Bitmap decodedImage = huffmanTree.DecodeImage(encodedText, img.Width, img.Height);
@@ -63,6 +63,11 @@ namespace LeituraHuffaman
             {
                 MessageBox.Show("Erro ao processar a imagem: " + ex.Message);
             }
+        }
+
+        private void text_Huffaman_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 
@@ -160,3 +165,52 @@ namespace LeituraHuffaman
         }
 
         private void GenerateCodes(Node node, string currentCode)
+        {
+            if (node == null)
+                return;
+
+            if (node.Left == null && node.Right == null)
+            {
+                codes[node.Symbol] = currentCode;
+                reverseMapping[currentCode] = node.Symbol;
+            }
+
+            GenerateCodes(node.Left, currentCode + "0");
+            GenerateCodes(node.Right, currentCode + "1");
+        }
+
+        public Bitmap DecodeImage(string encodedText, int width, int height)
+        {
+            List<byte> decodedBytes = new List<byte>();
+            string currentCode = "";
+
+            foreach (char bit in encodedText)
+            {
+                currentCode += bit;
+                if (reverseMapping.ContainsKey(currentCode))
+                {
+                    decodedBytes.Add(reverseMapping[currentCode]);
+                    currentCode = "";
+                }
+            }
+
+            Bitmap img = new Bitmap(width, height);
+            int byteIndex = 0;
+            for (int y = 0; y < height; y++)
+            {
+                for (int x = 0; x < width; x++)
+                {
+                    if (byteIndex + 2 < decodedBytes.Count)
+                    {
+                        byte r = decodedBytes[byteIndex++];
+                        byte g = decodedBytes[byteIndex++];
+                        byte b = decodedBytes[byteIndex++];
+                        img.SetPixel(x, y, Color.FromArgb(r, g, b));
+                    }
+                }
+            }
+
+            return img;
+        }
+    }
+}

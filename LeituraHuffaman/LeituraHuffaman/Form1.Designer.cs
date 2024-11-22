@@ -52,6 +52,7 @@
             text_Huffaman.Size = new Size(695, 100);
             text_Huffaman.TabIndex = 1;
             text_Huffaman.Text = "";
+            text_Huffaman.TextChanged += text_Huffaman_TextChanged;
             // 
             // text_Caminho
             // 
