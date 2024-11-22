@@ -46,10 +46,9 @@
             // 
             // text_Huffaman
             // 
-            text_Huffaman.Enabled = false;
             text_Huffaman.Location = new Point(93, 503);
             text_Huffaman.Name = "text_Huffaman";
-            text_Huffaman.Size = new Size(695, 100);
+            text_Huffaman.Size = new Size(695, 146);
             text_Huffaman.TabIndex = 1;
             text_Huffaman.Text = "";
             text_Huffaman.TextChanged += text_Huffaman_TextChanged;
@@ -86,7 +85,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 611);
+            ClientSize = new Size(804, 661);
             Controls.Add(button_Leitura);
             Controls.Add(button_anexar);
             Controls.Add(text_Caminho);

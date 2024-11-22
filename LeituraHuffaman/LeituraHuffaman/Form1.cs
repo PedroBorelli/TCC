@@ -44,8 +44,8 @@ namespace LeituraHuffaman
                 return;
             }
 
-            ReadHuffmanTables(JPGData);
-
+            string temp = ReadHuffmanTables(JPGData);
+            text_Huffaman.Text = temp;
             /*try
             {
                 HuffmanTree huffmanTree = new HuffmanTree();
@@ -69,11 +69,11 @@ namespace LeituraHuffaman
             }*/
         }
 
-        static void ReadHuffmanTables(byte[] data)
+        static string ReadHuffmanTables(byte[] data)
         {
             string temp = "";
 
-            for (int i = 0; i < data.Length; i++)
+            for (int i = 0; i < data.Length - 1; i++)
             {
                 if (data[i] == 0xFF && data[i + 1] == 0xC4)
                 {
@@ -83,8 +83,8 @@ namespace LeituraHuffaman
                     i += length;
                 }
             }
+            return temp;
         }
-
 
         private void text_Huffaman_TextChanged(object sender, EventArgs e)
         {

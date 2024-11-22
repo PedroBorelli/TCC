@@ -8,23 +8,23 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vinicius\\.nuget\\packages\\": {},
+    "C:\\Users\\pedro\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\TCC\\TCC3\\LeituraHuffaman\\LeituraHuffaman\\LeituraHuffaman.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Desktop\\TCC-main\\LeituraHuffaman\\LeituraHuffaman\\LeituraHuffaman.csproj",
       "projectName": "LeituraHuffaman",
-      "projectPath": "C:\\Users\\Vinicius\\Desktop\\TCC\\TCC3\\LeituraHuffaman\\LeituraHuffaman\\LeituraHuffaman.csproj",
-      "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius\\Desktop\\TCC\\TCC3\\LeituraHuffaman\\LeituraHuffaman\\obj\\",
+      "projectPath": "C:\\Users\\pedro\\Desktop\\TCC-main\\LeituraHuffaman\\LeituraHuffaman\\LeituraHuffaman.csproj",
+      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pedro\\Desktop\\TCC-main\\LeituraHuffaman\\LeituraHuffaman\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
